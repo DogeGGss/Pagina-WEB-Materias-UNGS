@@ -1,0 +1,18 @@
+2025-05-05 02:50:17.931296-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MATERIA_APROBADA" not found (this database is empty); SQL statement:
+select ma1_0.id,ma1_0.materia_codigo,ma1_0.username from materia_aprobada ma1_0 where ma1_0.username=? [42104-232]
+2025-05-05 02:50:18.756170-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MATERIA_APROBADA" not found (this database is empty); SQL statement:
+select ma1_0.id,ma1_0.materia_codigo,ma1_0.username from materia_aprobada ma1_0 where ma1_0.username=? [42104-232]
+2025-05-05 02:50:20.930136-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MATERIA_APROBADA" not found (this database is empty); SQL statement:
+select ma1_0.id,ma1_0.materia_codigo,ma1_0.username from materia_aprobada ma1_0 where ma1_0.username=? [42104-232]
+2025-05-05 02:50:23.171359-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MATERIA_APROBADA" not found (this database is empty); SQL statement:
+select ma1_0.id,ma1_0.materia_codigo,ma1_0.username from materia_aprobada ma1_0 where ma1_0.username=? [42104-232]
+2025-05-05 02:50:28.179441-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MATERIA_APROBADA" not found (this database is empty); SQL statement:
+select ma1_0.id,ma1_0.materia_codigo,ma1_0.username from materia_aprobada ma1_0 where ma1_0.username=? [42104-232]
+2025-05-05 02:54:04.838127-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MATERIA_APROBADA" not found (this database is empty); SQL statement:
+select ma1_0.id,ma1_0.materia_codigo,ma1_0.username from materia_aprobada ma1_0 where ma1_0.username=? [42104-232]
